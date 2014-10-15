@@ -3,4 +3,4 @@ Hello_World_Project
 
 Primo Progetto
 
-I Love :pizza
+I Love :pizza:
